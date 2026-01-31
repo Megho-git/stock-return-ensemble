@@ -1,0 +1,85 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ============================
+# Virtual Environments
+# ============================
+venv/
+.env/
+.env*/
+.virtualenv/
+.venv/
+
+# ============================
+# Jupyter / IPython
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Data & Artifacts
+# ============================
+data/
+artifacts/
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+*.h5
+
+# ============================
+# Logs & Temp Files
+# ============================
+*.log
+logs/
+tmp/
+temp/
+.cache/
+
+# ============================
+# OS / Editor
+# ============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================
+# Kaggle / Downloads
+# ============================
+*.zip
+*.tar.gz
+*.7z
+
+# ============================
+# Model Outputs
+# ============================
+models/
+checkpoints/
+outputs/
+predictions/
+
+# ============================
+# Coverage / Testing
+# ============================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ============================
+# Secrets
+# ============================
+*.env
+secrets.yaml
+config.local.yaml
