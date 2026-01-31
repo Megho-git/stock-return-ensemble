@@ -17,7 +17,7 @@ It applies leakage-safe walk-forward validation and an ensemble (stacking) appro
 The system is designed for research and educational purposes only.
 </p>
 
-<p>Full evaluation metrics and test results are documented at the end of this README.</p>
+<p><strong>Full evaluation metrics and test results are documented at the end of this README.</strong></p>
 
 
 <h2>Dataset</h2>
