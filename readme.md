@@ -1,4 +1,4 @@
-<h1>📈 Next-Day Stock Return Prediction (Ensemble Learning)</h1>
+<h1>Next-Day Stock Return Prediction (Ensemble Learning)</h1>
 
 <h2>Overview</h2>
 
