@@ -364,8 +364,9 @@ This project is for academic and experimental use.
 
 <p>
 This project does not provide financial advice.<br>
-All outputs are for learning and research only.<br>
-Reproducibility: Data and trained models are not included. Please download the dataset from Kaggle and run training scripts.
+All outputs are for learning and research only.<br><br>
+<strong>Reproducibility</strong>: Data and trained models are not included. 
+Kindly download the dataset from Kaggle and run training scripts.
 </p>
 
 
